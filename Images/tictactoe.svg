@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="332.835 201.009 284.779 99.7361" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<clipPath id="ArtboardFrame">
+<rect height="99.7361" width="284.779" x="332.835" y="201.009"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer" vectornator:layerName="Layer">
+<g opacity="1" vectornator:layerName="Grupo 12">
+<g opacity="1" vectornator:layerName="Grupo 6">
+<path d="M482.173 284.968C501.379 284.968 516.948 287.587 516.948 290.817C516.948 294.048 501.379 296.667 482.173 296.667C462.968 296.667 447.399 294.048 447.399 290.817C447.399 287.587 462.968 284.968 482.173 284.968Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="5.09234" vectornator:layerName="Óvalo 1"/>
+<path d="M481.87 203.934L478.789 246.289L475.708 288.644L481.863 288.645L488.019 288.646L484.945 246.29L481.87 203.934Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="5.09234" vectornator:layerName="Estrella 1"/>
+</g>
+<path d="M381.747 205.466C407.355 205.466 428.114 226.225 428.114 251.832C428.114 277.44 407.355 298.199 381.747 298.199C356.14 298.199 335.381 277.44 335.381 251.832C335.381 226.225 356.14 205.466 381.747 205.466Z" fill="#ffffff" fill-rule="nonzero" opacity="0.998062" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="5.09234" vectornator:layerName="Óvalo 2"/>
+<path d="M380.398 250.802L354.422 230.541" fill="none" opacity="0.998062" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="5.09234" vectornator:layerName="Línea 1"/>
+<path d="M380.056 258.074L366.829 274.644" fill="none" opacity="0.998062" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="5.09234" vectornator:layerName="Línea 2"/>
+<g opacity="1" vectornator:layerName="Grupo 9">
+<path d="M580.294 203.555C599.499 203.555 615.068 229.555 615.068 261.628C615.068 293.701 596.909 296.287 579.521 296.287C562.134 296.287 545.519 293.701 545.519 261.628C545.519 229.555 561.088 203.555 580.294 203.555Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="5.09234" vectornator:layerName="Óvalo 2"/>
+<path d="M580.037 213.001C592.116 213.001 601.907 224.045 601.907 237.668C601.907 251.291 590.486 252.39 579.552 252.39C568.617 252.39 558.167 251.291 558.167 237.668C558.167 224.045 567.959 213.001 580.037 213.001Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="5.09234" vectornator:layerName="Óvalo 1"/>
+<g opacity="1" vectornator:layerName="Grupo 8">
+<path d="M593.851 261.336L563.998 260.654" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="5.09234" vectornator:layerName="Línea 1"/>
+<path d="M596.895 270.324L560.954 269.655" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="5.09234" vectornator:layerName="Línea 2"/>
+<path d="M593.831 279.662L564.017 278.852" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="5.09234" vectornator:layerName="Línea 3"/>
+</g>
+</g>
+</g>
+</g>
+</svg>

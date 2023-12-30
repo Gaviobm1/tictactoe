@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="106.775 522.316 252.471 250.205" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<clipPath id="ArtboardFrame">
+<rect height="250.205" width="252.471" x="106.775" y="522.316"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer" vectornator:layerName="Layer">
+<g opacity="1" vectornator:layerName="Grupo 11">
+<g opacity="1" vectornator:layerName="Grupo 1">
+<path d="M163.978 586.895L147.239 538.25L200.501 559.22L224.126 592.903L245.073 628.008L282.448 653.966L300.129 686.377L283.616 698.342L246.419 675.233L208.913 616.106L163.978 586.895ZM261.49 714.43L283.925 698.259L301.585 685.53L309.459 678.64L322.841 665.735L336.108 691.143L304.912 710.467L281.428 736.924L261.49 714.43ZM297.506 719.265L306.738 709.806L318.199 702.638L335.953 732.583L356.7 748.211L338.494 763.16L315.307 727.147L297.506 719.265Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="5.09234" vectornator:layerName="Curva 1"/>
+<path d="M164.504 554.741L218.554 605.244L235.284 635.303L268.36 662.317L276.529 678.1" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="5.09234" vectornator:layerName="Línea 1"/>
+</g>
+<g opacity="1" vectornator:layerName="Grupo 2">
+<path d="M299.803 575.255L315.894 524.862L262.944 551.487L239.775 587.662L219.301 624.972L182.291 654.891L165.046 689.161L181.704 699.36L218.573 672.307L255.28 609.228L299.803 575.255ZM204.024 713.081L181.394 699.31L163.58 688.47L155.621 682.423L142.08 670.952L129.154 697.754L160.581 713.744L184.394 737.682L204.024 713.081ZM168.097 721.747L158.747 713.278L147.201 707.335L129.85 739.149L109.321 756.975L127.71 769.974L150.411 731.518L168.097 721.747Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="5.09234" vectornator:layerName="Curva 1"/>
+<path d="M298.857 543.179L245.504 599.401L229.178 631.22L196.479 661.736L188.521 678.378" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="5.09234" vectornator:layerName="Línea 1"/>
+</g>
+</g>
+</g>
+</svg>
